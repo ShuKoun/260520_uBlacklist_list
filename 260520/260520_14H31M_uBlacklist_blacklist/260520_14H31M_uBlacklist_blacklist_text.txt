@@ -11,3 +11,9 @@
 *://*.kafan.*/*
 *://*.baidu.com/*
 *://*.zhihu.com/*
+*://*.v2ex.com/*
+*://*.chinaz.com/*
+*://*.ntdtv.com/*
+*://*.epochtimes.com/*
+*://*.ganjingworld.com/*
+*://*.soundofhope.org/*
