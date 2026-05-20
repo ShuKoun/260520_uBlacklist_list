@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# runtime/temp
+*.tmp
+*.bak
+*.lock
+tmp/
+.tmp/
+
