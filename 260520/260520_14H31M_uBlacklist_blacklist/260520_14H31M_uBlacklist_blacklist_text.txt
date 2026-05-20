@@ -9,3 +9,5 @@
 *://*.baidu.*/*
 *://*.zhihu.*/*
 *://*.kafan.*/*
+*://*.baidu.com/*
+*://*.zhihu.com/*
