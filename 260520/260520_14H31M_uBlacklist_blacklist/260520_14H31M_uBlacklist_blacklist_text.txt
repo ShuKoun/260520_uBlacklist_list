@@ -17,3 +17,5 @@
 *://*.epochtimes.com/*
 *://*.ganjingworld.com/*
 *://*.soundofhope.org/*
+*://*.bilibili.com/*
+*://*.foxnews.org/*
